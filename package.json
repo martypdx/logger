@@ -2,7 +2,7 @@
   "name": "logger",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/logger.js",
   "directories": {
     "test": "test"
   },
